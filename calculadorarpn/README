@@ -1,0 +1,3 @@
+execute "make" para compilar
+execute o executavel passando como parametro o arquivo no qual estão contidas as expressões... exemplo a.out teste.txt
+
